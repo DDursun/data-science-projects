@@ -1,1 +1,1 @@
-# Repository for Baku Higher Oil Scool programming assignments. 
+# Repository for Baku Higher Oil School programming assignments. 
